@@ -1,0 +1,324 @@
+
+NMF results:
+
+Topic 0:hello friends forum members im people world newbie investors california
+Top related threads:
+Hello all, new here.
+Hello Everyone
+Hello All
+Hello Everyone!
+Hello
+
+Topic 1:hi friends newbie im post uk people future old checking
+Top related threads:
+Hi from IL
+Hi all
+Hi everyone!
+Hi everyone
+Hi
+
+Topic 2:loan personal take offer student apply auto payday eligibility interest
+Top related threads:
+Need a loan
+Loan Delay
+Need clarification on a loan
+Need a loan
+Businness loan in EU?
+
+Topic 3:credit card score bad rating report line getting give debit
+Top related threads:
+What is the besic use of EMV Credit Card
+You need a credit card
+best use of credit card
+Is there any credit card that is compliant with shari'a?
+First Credit Card
+
+Topic 4:debt consolidation paying settlement management getting reduction student situation relief
+Top related threads:
+Debt Challenge!
+I am slowly drowning in debt
+Please Help Me With Debt Please
+New here. Just have a question about my debt.
+23 with 36k in debt.
+
+Topic 5:advice needed looking 401k investing career appreciated seeking needing refinance
+Top related threads:
+Anyone Plz... Help.... advice.
+New here, need advice
+X-Mas Bonus (Advice Please)
+Need advice
+need help/advice
+
+Topic 6:finance personal homework problem corporate uk brokers excel lease career
+Top related threads:
+I know nothing about finance
+new in finance
+Finance Podcasts?
+Finance Reference Question
+Finance Outsourcing
+
+Topic 7:financial services offer advisor planning uk controller group planner advisors
+Top related threads:
+I'm not a Financial Geek
+LPL Financial
+Financial Statements
+Msc computational engineering (FEM) or Msc financial engineering
+Help!  Financial Infidelity has kicked me in the a$$!
+
+Topic 8:insurance life tips auto benefits health medical travel policy policies
+Top related threads:
+Insurance
+What kinda if motorcycle insurance is ideal for a new rider?
+Cancer Insurance?
+Homeowners Insurance
+Insurance
+
+Topic 9:money invest making make investing funds transfer free hard ways
+Top related threads:
+get your thoughts... What is money?
+The Lies About  Money
+How to save money and Why?
+Inherited money, now what????
+Money
+
+Topic 10:bank uae lease instrument open sale emirates islamic america bg
+Top related threads:
+Bank refuses to negotiate
+The Bank of England and the European Central Bank…
+Bank of Montreal... Insolvent?
+Online bank account
+Bank Help
+
+Topic 11:business start small banking saudi banks set arabia offer looking
+Top related threads:
+Business premises leasing?
+Business question help
+business reviews
+New Business ?
+Any business owners in here?
+
+Topic 12:mortgage rates interest heloc reverse paying amount payment payoff usa
+Top related threads:
+Mortgage Terms
+Tracker mortgage
+Mortgage Question
+Best mortgage deals
+Mortgage Question
+
+Topic 13:market stock compromise read airline industry part trading sell invest
+Top related threads:
+Stock Market: Here comes the downside?
+stock market please go up
+Shorting the stock market
+Stock Market Viral Domination
+Does anyone know a good stock market?
+
+Topic 14:investment banking options wealth property bahrain portfolio india safe gold
+Top related threads:
+Investment Account
+Investment prediction graphs
+investment plan.
+Investment Question 1
+investment
+
+Topic 15:car buying financing dubai loan saudi keep interested sell company
+Top related threads:
+Do I buy the car?
+What should I do with this car?
+Does Toyota have a sports car?
+Are there any good online car racing games?
+Help me get out of this car!
+
+Topic 16:loans personal student payday secured paying unsecured small available college
+Top related threads:
+Consolidating loans?
+Balloon Loans
+Spreads on FHA Loans
+Loans
+How about Bridging Loans?
+
+Topic 17:estate investing invest agent commercial investments residential successful bahrain market
+Top related threads:
+Qualities of a Good Real Estate
+Why is real estate called "real estate"?
+Real Estate problems.
+Where can I get help from real estate developer?
+What real estate APIs exist?
+
+Topic 18:home equity buying take time buyer income tips eligible line
+Top related threads:
+Are there some good home remedies for curing a sore throat?
+Starter home?
+New Town Home.
+Can I do a bikini wax at home?
+Can I do a bikini Hollywood wax at home?
+
+Topic 19:pay cash debts 401k back school student card invest sell
+Top related threads:
+pay someone to do your
+Never Pay Up Front Fees
+Pay to delete????
+Pay off which?
+How long do I have to pay for PMI?
+
+LDA results:
+
+Topic 0:business bank pay suggest college sell exchange lease bonds cut
+Top related threads:
+Fresh cut bank instrument for lease/sale, such as BG,SBLC, MTN, Bank Bonds
+Fresh cut bank instrument for lease/sale, such as BG,SBLC, MTN, Bank Bonds
+Fresh cut bank instrument for lease/sale, such as BG,SBLC, MTN, Bank Bonds
+Fresh cut bank instrument for lease/sale, such as BG,SBLC, MTN, Bank Bonds
+Fresh cut bank instrument for lease/sale, such as BG,SBLC, MTN, Bank Bonds
+
+Topic 1:credit card company start rate planning find islamic payment newbie
+Top related threads:
+Where can I find a credit card with really low APR/interest rate?
+Things to keep in mind before chosing a credit card?
+Are there any surrender charges on Emirates Islamic's Ethra'a's plans?
+Are there any surrender charges on Emirates Islamic's Ethra'a's plans?
+Old Credit Card Nightmare
+
+Topic 2:401k value retirement fund capital roth right taxes stocks benefits
+Top related threads:
+Retirement soon, transfer all stocks to stable value fund?
+Retirement contribution formula question
+Net working capital NWC
+Working with Multiple Users in QuickBooks
+Help please in net present value
+
+Topic 3:option pension introduction children international worth makes 2007 large commentary
+Top related threads:
+Buy IELTS, IDP TOEFL, GMAT, ESOL, DEGREE, DIPLOMAS
+Buy IELTS, IDP TOEFL, GMAT, ESOL, DEGREE, DIPLOMAS
+Buy IELTS, IDP TOEFL, GMAT, ESOL, DEGREE, DIPLOMAS
+Buy IELTS, IDP TOEFL, GMAT, ESOL, DEGREE, DIPLOMAS
+Buy IELTS, IDP TOEFL, GMAT, ESOL, DEGREE, DIPLOMAS
+
+Topic 4:tips trading management forex true school commodity portfolio topic dissertation
+Top related threads:
+commodity online trading tips : 15/12/2014
+commodity tips : 12/12/2014
+Trading Tips On MCX - 17/11/2014
+Forex Trading is Like Gambling. Is it True?
+Portfolio Management Excel help
+
+Topic 5:advice looking com uk make future needed passport dollar driving
+Top related threads:
+,BUY IELTS,DIPLOMAS,TOEFL,TOEIC,DL,ID,SSN/SSC ( picoloperes@gmail.com )Passport,Birth
+,BUY IELTS,DIPLOMAS,TOEFL,TOEIC,DL,ID,SSN/SSC ( picoloperes@gmail.com )Passport,Birth
+,BUY IELTS,DIPLOMAS,TOEFL,TOEIC,DL,ID,SSN/SSC ( picoloperes@gmail.com )Passport,Birth
+,BUY IELTS,DIPLOMAS,TOEFL,TOEIC,DL,ID,SSN/SSC ( picoloperes@gmail.com )Passport,Birth
+,BUY IELTS,DIPLOMAS,TOEFL,TOEIC,DL,ID,SSN/SSC ( picoloperes@gmail.com )Passport,Birth
+
+Topic 6:investing india ksa energy construction calculate great residential alj estate
+Top related threads:
+There is a great demand for renewable energy. How is ALJ contributing to it?
+I am interested in investing in a good residential project in KSA.
+What kind of renewable energy forms are being developed in the KSA?
+Real Estate Investing - How do I get started?
+android App Developers India, Android developers
+
+Topic 7:tax dubai income buying cra sotw ideas recommend currency month
+Top related threads:
+CRA MUM on the Tax Filings of Santa Claus :CRA SOTW
+CRA: Some Sympathy for Tax Avoiders :CRA SOTW
+I am interested in buying a sedan. Please suggest a good brand that is easily
+Long Currency Straddles and Short Currency Straddles
+question about how much can be saved in federal income tax
+
+Topic 8:finance interest small offers world rates bond paid family early
+Top related threads:
+Small finance banks compete for term deposits amid falling interest rates
+Finance - Help with bond duration/valuing
+Anybody knows something about New World Finance?
+Why is finance so popular?
+Global Finance EU
+
+Topic 9:cash equipment heavy don returns revenue starting flow security canada
+Top related threads:
+Buy Authentic Counterfeit Banknotes(currencyproducers@gmail.com)
+Buy Authentic Counterfeit Banknotes(currencyproducers@gmail.com)
+Buy Authentic Counterfeit Banknotes(currencyproducers@gmail.com)
+Buy Authentic Counterfeit Banknotes(currencyproducers@gmail.com)
+Buy Authentic Counterfeit Banknotes(currencyproducers@gmail.com)
+
+Topic 10:way safe cost remove self sales support grants single fraud
+Top related threads:
+Whats up Forums! Let me introduce my self.
+What do you mean by cost of sales
+Can dry cleaning remove carpet stains?
+Be safe and secure from fraud & Scams
+Chart EMA values 9,13, 25...
+
+Topic 11:hello mortgage problem annuity got software big scam refinance non
+Top related threads:
+bEsT+91-8107216603~~~~~~? LoVe Problem Solution Specialist baba ji
+best ######+91-8107216603 love problem solution specialist baba ji
+jai mata rani_+91-8107216603 bEsT love PrObLeM SoLuTiOn specialist baba ji
+marriage____+91-8107216603 love marriage solution specialist baba ji
+best ___+91-8107216603 love marriage solution specialist baba ji
+
+Topic 12:bahrain work options better abdul latif jameel give services data
+Top related threads:
+What kind of work are Fotowatio Renewable Ventures (FRV) and Abdul Latif Jameel...
+What is the deal between Abdul Latif Jameel and Fotowatio Renewable Ventures (FRV)?
+What is the deal between Abdul Latif Jameel and Fotowatio Renewable Ventures?
+What kind of work is Abdul Latif Jameel into?
+How can one know more of the Bahrain EDB in terms of career options?
+
+Topic 13:loans banking banks savings investments people different mobile oil kids
+Top related threads:
+What is the difference between a real estate agent and a real estate broker?
+What is the Difference between Unsecured and Secured Loans?
+What are the features offered by banks for day to day banking?
+NPV case study question
+I want to know more about corporate banking as I plan to open an account.
+
+Topic 14:car investment market insurance stock time estate companies life bad
+Top related threads:
+STOCK MARKET IS COMPROMISE!!! Part 2 Airline Industry
+STOCK MARKET IS COMPROMISE!!! Part 2 Airline Industry
+STOCK MARKET IS COMPROMISE!!! Part 2 Airline Industry
+STOCK MARKET IS COMPROMISE!!! Part 2 Airline Industry
+STOCK MARKET IS COMPROMISE!!! Part 2 Airline Industry
+
+Topic 15:money invest getting ira job periods accounts suggestions return old
+Top related threads:
+Where should I invest money for getting higher return?
+How should a young person invest money?
+Negative Beliefs About Money - How To Uncover And Eliminate Wealth Blocks
+Can you cancel a money transfer that has been done over the internet?
+Getting the Balance Sheet to Balance!
+
+Topic 16:financial take loan offer uae rid possible years settlement growth
+Top related threads:
+I want to take a loan against shares. What is the eligibility criteria for it?
+I want to take a loan against my shares with the bank. Is it possible?
+I want to take a loan against my shares with the bank. Is it possible?
+I want to take a loan against my shares with the bank. Is it possible?
+I want to take a loan for my son's wedding. How can I know my eligibility?
+
+Topic 17:hi saudi arabia credit questions score bankruptcy going products investor
+Top related threads:
+Do you get white westinghouse products in Saudi Arabia?
+Do you get white westinghouse products in Saudi Arabia to buy a split air conditioner
+Tricks to Raise Credit Scores - The Truth About Increasing Your Credit Score & the Op
+how to rebuild credit and repair credit history
+Will "Domestic Partner" affect My Credit Score?
+
+Topic 18:funds free financing mutual available trade check 000 manager land
+Top related threads:
+#100% Financial Instrument BGs/SBLCs/LCs for Trade and Project Funding
+#100% Financial Instrument BGs/SBLCs/LCs for Trade and Project Funding
+#100% Financial Instrument BGs/SBLCs/LCs for Trade and Project Funding
+#100% Financial Instrument BGs/SBLCs/LCs for Trade and Project Funding
+#100% Financial Instrument BGs/SBLCs/LCs for Trade and Project Funding
+
+Topic 19:loan debt personal home student auto property apply private equity
+Top related threads:
+Want personal loan. What personal details I need to use the eligibility calculator?
+Do online home loan calculator give correct figures?
+What all documents will I need to submit for taking  personal loan?
+Home loan Vs Loan against property
+Fair Debt Collection Practices Act & Debt Relief
